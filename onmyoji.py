@@ -95,4 +95,4 @@ while True:
 	if a.health() <= 0:
 		break
 	print ''
-
+print 'gjgvhv'
